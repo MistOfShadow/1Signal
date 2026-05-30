@@ -4,7 +4,7 @@ A full-stack mobile application (Expo + React Native) designed to assist car cra
 
 ---
 
-## 📂 Project Structure & Folder Brief
+##  Project Structure & Folder Brief
 
 The repository is organized as a monorepo workspace managed by `pnpm`. Below is a breakdown of the primary directories and their contributions to the application:
 
@@ -49,7 +49,7 @@ crashcare/
 
 ---
 
-## 🔑 API Keys Configuration
+##  API Keys Configuration
 
 To run the AI assistant and the sync locator features, configure the following environment keys in your `artifacts/api-server/.env` file:
 
@@ -62,7 +62,7 @@ To run the AI assistant and the sync locator features, configure the following e
 
 ---
 
-## 🌐 External Services & APIs
+##  External Services & APIs
 
 The application fetches information from and integrates with the following external endpoints:
 
@@ -76,7 +76,7 @@ The application fetches information from and integrates with the following exter
 
 ---
 
-## ⚙️ How it Works: Screen & File Mapping
+##  How it Works: Screen & File Mapping
 
 ### 1. SOS Emergency Screen (`app/(tabs)/index.tsx`)
 * **Displays**: Huge one-tap calling buttons for **911** and **112** alongside immediate safety advice (hazard lights, engine shutdown, safe exit).
@@ -106,7 +106,7 @@ The application fetches information from and integrates with the following exter
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Install Dependencies
 ```bash
